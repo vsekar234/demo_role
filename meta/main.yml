@@ -1,8 +1,13 @@
 #SPDX-License-Identifier: MIT-0
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  role_name: demo_role
+  author: vignesh
+  description: Install packages on Ubuntu
+  license: MIT
+  min_ansible_version: "2.12"
+
+dependencies: []
+
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
